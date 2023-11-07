@@ -1,0 +1,5 @@
+nvm install 20 -> instala a versão 18
+nvm install --lts -> instala a versão long-term supprt (versão recomendada)
+nvm list
+
+node -v > .npmrc -> salva a versão apropriada para aquele projeto
